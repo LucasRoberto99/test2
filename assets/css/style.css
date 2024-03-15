@@ -1,0 +1,27 @@
+section {
+  border: 5px solid black;
+  height: 600px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ----- */
+
+.red-class {
+  /* background-color: red; */
+  display: none;
+}
+
+.hiden {
+  display: none;
+}
